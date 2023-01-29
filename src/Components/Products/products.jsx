@@ -3,7 +3,7 @@ import React from 'react'
 export default function Products() {
   return (
     <div className='product_main_div'>
-      <h1 className='text-center'>Our Products</h1>
+      <h1 className='text-center'>Our Best Selling Products</h1>
       <div className='container '>
         <div className='row'>
           <div className='col-lg-3 col-sm-6'>
